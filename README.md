@@ -28,6 +28,6 @@ Some rules are parameterizable by an integer specified by the PARAM argument. In
 
 **List of rules:**
 1. The password contains at least 1 uppercase and 1 lowercase letter.
-2. The password contains different characters 
+2. The password contains different characters.
 3. The password does not contain a sequence of identical characters of length at least X.
 4. The password does not contain two identical substrings of length at least X.
